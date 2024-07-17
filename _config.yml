@@ -1,7 +1,7 @@
 # Title
 name: Spielwiese
 author: Yvonne Jung
-theme: Hacker
+theme: jekyll-theme-hacker
 
 # Where things are
 source              : .
